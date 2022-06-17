@@ -20,6 +20,7 @@
     "serverless-webpack": "^5.7.1"
   },
   "dependencies": {
+    "stripe": "^9.8.0",
     "uuid": "^7.0.3"
   }
 }
